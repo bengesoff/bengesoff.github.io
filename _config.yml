@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ben Gesoff
+tagline:          'Code, Electronics, Photography.'
+description:      'Electronic Engineering Student at University of Southampton'
+url:              http://ben.gesoff.tk
+baseurl:          /
+
+author:
+  name:           'Ben Gesoff'
+  url:            https://github.com/bengesoff
+
+paginate:         5
+
+gems:
+  - jekyll-paginate
